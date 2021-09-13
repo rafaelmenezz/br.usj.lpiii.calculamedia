@@ -1,0 +1,7 @@
+{
+  "name": "CalculaMedia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
